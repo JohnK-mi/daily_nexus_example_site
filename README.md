@@ -9,3 +9,5 @@
 ```print("hello world")```
 
 <img src="image.png"/>
+
+[redirect test](redirect.md)
