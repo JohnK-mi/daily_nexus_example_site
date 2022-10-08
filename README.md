@@ -7,3 +7,5 @@
 - list item 3
 
 ```print("hello world")```
+
+<img src="image.png"/>
