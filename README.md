@@ -10,4 +10,4 @@
 
 <img src="image.png"/>
 
-[redirect test](redirect.md)
+[redirect test](./redirect.md)
